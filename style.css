@@ -1,0 +1,63 @@
+*{padding: 0;
+margin: 0;
+/* border: 1px solid red;} */
+}
+.navbar{
+  
+    background-color: gray;
+    
+}
+
+.NavContainer{
+   display: flex; 
+   justify-content: space-around;
+
+}
+.row{
+    display: flex;
+    
+}
+
+
+.column{
+    margin: 10px;
+    
+    border: 2px solid black;
+    height: 200px;
+    width: 450px;
+}
+
+.column2{
+    margin: 10px;
+   height: 200px;
+    width: 450px;
+    border: 2px solid black;
+ 
+  
+}
+
+.topCard{display: flex}
+
+.right {padding: 25px}
+
+.left {text-align: center;}
+
+.addDefButton{
+    background-color: green;
+    padding: 5px 30px;
+}
+
+.loginbtn{
+    width: 100px;
+    background-color: teal ;
+    color: white;
+    font-weight: 900;
+}
+
+.likes-btn{
+    width: 100px;
+    background-color: yellowgreen ;
+    color: white;
+    font-weight: 900;
+}
+
